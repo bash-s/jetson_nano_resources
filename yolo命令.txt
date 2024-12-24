@@ -1,2 +1,0 @@
-yolo detect train data=data.yaml model=yolov8n.yaml pretrained=yolov8n.pt epochs=100 imgsz=640 lr0=0.05
-yolo detect val data=data.yaml model=best.pt

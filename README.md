@@ -1,1 +1,0 @@
-# jetson_nano_resources
