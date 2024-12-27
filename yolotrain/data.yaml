@@ -1,7 +1,7 @@
 # 数据集路径
-train: C:\Users\86134\Desktop\电赛\yolotrain\images\train  # 训练集图片路径
-val: C:\Users\86134\Desktop\电赛\yolotrain\images\val # 验证集图片路径
-test: C:\Users\86134\Desktop\电赛\yolotrain\images\test  # 测试集图片路径（如果有的话）
+train: /content/jetson_nano_resources/yolotrain/images/train  # 训练集图片路径
+val: /content/jetson_nano_resources/yolotrain/images/val # 验证集图片路径
+test: /content/jetson_nano_resources/yolotrain/images/test  # 测试集图片路径（如果有的话）
 
 # 数据集信息
 nc: 2  # 类别数量
