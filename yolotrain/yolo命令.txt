@@ -1,2 +1,2 @@
-yolo detect train data=/content/jetson_nano_resources/yolotrain/data.yaml model=/content/jetson_nano_resources/yolotrain/yolov11n.yaml pretrained=/content/jetson_nano_resources/yolotrain/yolov11n.pt epochs=100 imgsz=640 lr0=0.05
+yolo detect train data=/content/jetson_nano_resources/yolotrain/data.yaml model=/content/jetson_nano_resources/yolotrain/yolov11n.yaml pretrained=/content/jetson_nano_resources/yolotrain/yolo11n.pt epochs=100 imgsz=640 lr0=0.05
 yolo detect val data=/content/jetson_nano_resources/yolotrain/data.yaml model=best.pt
